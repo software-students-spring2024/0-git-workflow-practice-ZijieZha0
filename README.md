@@ -8,3 +8,8 @@ Moreover, the prospect of an entirely novel user experience is particularly appe
 ### Sang Lee
 
 I'm really excited about Apple's Vision Pro too! It's amazing to think about how it's going to change the way we use our devices. Apple always knows how to make their products work so well together, and I can't wait to see how Vision Pro makes everything even more immersive and easy to use. It's going to be interesting to see what new features it brings and how it pushes us to think differently about tech.
+
+
+# Niket Gautam Opinion
+
+The vision pro is going to be a game changer! Apple being a pioneer in its industry has the capabilities to withstand high demand and also be innovative at the same time. What i feel will actually be interesting is how this turns out 10 years down the line, will all of us be at home on our Virtual headsets or the world would still be the same? We have no answer to this and I feel that this is a first step towards something different which may well revolutionise the world. Excited to see the software implications too. 
