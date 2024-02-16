@@ -13,3 +13,7 @@ I'm really excited about Apple's Vision Pro too! It's amazing to think about how
 # Niket Gautam Opinion
 
 The vision pro is going to be a game changer! Apple being a pioneer in its industry has the capabilities to withstand high demand and also be innovative at the same time. What i feel will actually be interesting is how this turns out 10 years down the line, will all of us be at home on our Virtual headsets or the world would still be the same? We have no answer to this and I feel that this is a first step towards something different which may well revolutionise the world. Excited to see the software implications too. 
+
+# Silu Xing Comment
+
+The article introduces Apple Vision Pro, a groundbreaking spatial computer that merges digital content with the physical world, prioritizing user presence and connectivity. Vision Pro boasts an infinite canvas for apps, exceeding the limits of traditional displays, and introduces a three-dimensional user interface controlled by natural inputs like eyes, hands, and voice. Powered by visionOS, the world's first spatial operating system, Vision Pro enables users to interact with digital content as if it were physically present in their environment. Its design features an ultra-high-resolution display system with 23 million pixels across two displays and custom Apple silicon in a dual-chip configuration, ensuring immersive experiences in real time.
